@@ -33,7 +33,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  var arrayB = kitens.slice();
+  var arrayB = kittens.slice();
   arrayB.unshift(name);
   return arrayB;
 }
