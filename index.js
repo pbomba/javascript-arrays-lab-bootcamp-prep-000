@@ -34,5 +34,6 @@ function appendKitten(name){
 
 function prependKitten(name){
   var arrayB = kitens.slice();
-  arrayB.
+  arrayB.unshift(name);
+  return arrayB;
 }
