@@ -37,3 +37,9 @@ function prependKitten(name){
   arrayB.unshift(name);
   return arrayB;
 }
+
+function removeLastKitten(){
+  var arrayB = kittens.slice();
+  arrayB.slice(0 arrayB.length - 1)
+  return arrayB;
+}
