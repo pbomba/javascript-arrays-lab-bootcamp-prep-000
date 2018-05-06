@@ -13,5 +13,5 @@ function destructivelyAppendKitten(name){
 }
 
 destructivelyPrependKitten(name){
-  kittens.slice
+  kittens.
 }
