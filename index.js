@@ -43,3 +43,5 @@ function removeLastKitten(){
   arrayB.pop();
   return arrayB;
 }
+
+function 
