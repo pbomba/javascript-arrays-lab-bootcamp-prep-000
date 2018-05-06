@@ -20,3 +20,7 @@ function destructivelyRemoveLastKitten(){
   var arrayB = kittens.pop();
   return kittens;
 }
+
+function destructivelyRemoveFirstKitten(){
+  
+}
