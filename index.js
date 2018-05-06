@@ -8,6 +8,6 @@ var kittens = [
 ]
 
 function destructivelyAppendKitten(array, name){
-  var arrayB = array.push(name);
-  return arrayB;
+  array.push(name);
+  return array;
 }
