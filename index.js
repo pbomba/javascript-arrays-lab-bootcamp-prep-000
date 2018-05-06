@@ -31,3 +31,5 @@ function appendKitten(name){
   arrayB.push(name);
   return arrayB;
 }
+
+function 
