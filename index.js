@@ -44,7 +44,7 @@ function removeLastKitten(){
   return arrayB;
 }
 
-function Arrays removeFirstKitten(){
+function removeFirstKitten(){
   var arrayB = kittens.slice();
   arrayB.reverse();
   arrayB.pop();
